@@ -38,7 +38,7 @@
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://cdn.shortpixel.ai/spai/q_lossy+ret_img/https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="pandas" width="40" height="40"/> </a>
  <a href="https://numpy.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="numpy" width="40" height="40"/> </a>
  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
- <a href="https://matplotlib.org/" target="_blank"> <img src="hthttps://matplotlib.org/_static/logo2_compressed.svg" alt="seaborn" width="40" height="40"/> </a>
+ <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/> </a>
 </p>
 
 
