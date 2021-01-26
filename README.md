@@ -28,31 +28,25 @@
 <a href="https://www.learn-c.org/" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png" alt="C" width="40" height="40"/> </a>
 <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/dart.png" alt="Dart" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/tensorflow.png" alt="tensorflow" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/javascript.png" alt="javascript" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Tools:</h3>
+<p align="left">
+<a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visualstudiocode" width="40" height="40"/> </a>
+<a href="https://www.eclipse.org" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="40" height="40"/> </a>
+</p>
 
+<p>
 
-<a href="https://github.com/Ahmad-Almosallam/">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Almosallam&show_icons=true&theme=light&line_height=27&count_private=true" alt="Ahmad's github stats"/>
-</a>
-<a href="https://github.com/Ahmad-Almosallam/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Almosallam" alt="Ahmad's github stats"/>
-</a>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Almosallam&show_icons=true&theme=light&line_height=27&count_private=true" alt="Ahmad's github stats"/>
 
+</p>
+<p>
 
-<!-- 
-**Ahmad-Almosallam/Ahmad-Almosallam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Almosallam" alt="Ahmad's github stats"/>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 
