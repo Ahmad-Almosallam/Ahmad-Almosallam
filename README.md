@@ -50,14 +50,14 @@
 </p>
 
 <p>
-
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Almosallam&show_icons=true&theme=light&line_height=27&count_private=true" alt="Ahmad's github stats"/>
-
+<a src="">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Almosallam&show_icons=true&theme=light&line_height=27&count_private=true" alt="Ahmad's github stats"/>
+</a>
 </p>
 <p>
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Almosallam" alt="Ahmad's github stats"/>
-
+<a src="">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Almosallam" alt="Ahmad's github stats"/>
+</a>
 </p>
 
 
