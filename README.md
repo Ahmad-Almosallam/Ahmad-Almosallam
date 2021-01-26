@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ahmad
+<h1 align="center">Hi there 👋 I'm Ahmad Almosallam</h1>
 <a href="https://www.linkedin.com/in/ahmad-almosallam-9910261a7/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://stackoverflow.com/users/12771829/ahmad-almosallam" target="blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
 <!--
@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Almosallam&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmad-Almosallam&count_private=true" >
+<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmad-Almosallam&margin-w=15&margin-h=15" alt="omar-al-khathlan" /></a> </p>
