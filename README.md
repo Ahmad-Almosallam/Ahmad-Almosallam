@@ -1,10 +1,35 @@
 <h1 align="center">Hi there 👋 I'm Ahmad Almosallam</h1>
-<hr>
 <h3 align="center">A passionate developer</h3>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmad-Almosallam&margin-w=15&margin-h=15" alt="Ahmad-Almosallam" /></a>
+<p align="middle"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmad-Almosallam&margin-w=15&margin-h=15" alt="Ahmad-Almosallam" /></a></p>
 
+
+- 👨‍💻 All of my projects are available [Here](https://github.com/Ahmad-Almosallam?tab=repositories).
+
+- 💬 Ask me about **Java, SQL, PHP, Codeigniter, C, Android, Python, Machine Learning.**
+
+- 📫 How to reach me **ahmad.ali.almosallam@gmail.com**
+
+- 📄 Know about my experiences [Here](https://www.linkedin.com/in/ahmad-almosallam-9910261a7/).
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/ahmad-almosallam-9910261a7/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://stackoverflow.com/users/12771829/ahmad-almosallam" target="blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
+</p>
+
+
+<h3 align="left">Languages:</h3>
+<p align="left">
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/wired/64/4a90e2/sql.png" alt="sql" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/python.png" alt="python" width="40" height="40"/> </a>
+<a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/16/4a90e2/php-logo.png" alt="php" width="40" height="40"/> </a>
+<a href="https://www.learn-c.org/" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png" alt="C" width="40" height="40"/> </a>
+</p>
+
+
+
 <a href="https://github.com/Ahmad-Almosallam/">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Almosallam&show_icons=true&theme=light&line_height=27&count_private=true" alt="Ahmad's github stats"/>
 </a>
