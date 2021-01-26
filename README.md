@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 -->
 ![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Almosallam&count_private=true)
 <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-Almosallam&count_private=true" >
-<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmad-Almosallam&margin-w=15&margin-h=15" alt="omar-al-khathlan" /></a> </p>
+<a href="https://github.com/Ahmad-Almosallam/">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Almosallam&show_icons=true&theme=light&line_height=27" alt="Ahmad's github stats"/>
+ </a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmad-Almosallam&margin-w=15&margin-h=15" alt="Ahmad-Almosallam" /></a>
