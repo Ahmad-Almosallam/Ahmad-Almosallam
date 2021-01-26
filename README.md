@@ -27,7 +27,6 @@
 <a href="https://www.php.net/" target="_blank">  <img src="https://img.icons8.com/dusk/64/4a90e2/php-logo.png" alt="php" width="40" height="40"/> </a>
 <a href="https://www.learn-c.org/" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png" alt="C" width="40" height="40"/> </a>
 <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/dart.png" alt="Dart" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/tensorflow.png" alt="tensorflow" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/javascript.png" alt="javascript" width="40" height="40"/> </a>
 </p>
 
@@ -38,6 +37,9 @@
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/tensorflow.png" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://cdn.shortpixel.ai/spai/q_lossy+ret_img/https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="pandas" width="40" height="40"/> </a>
  <a href="https://numpy.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="numpy" width="40" height="40"/> </a>
+ <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+ <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+ <a href="https://matplotlib.org/" target="_blank"> <img src="hthttps://matplotlib.org/_static/logo2_compressed.svg" alt="seaborn" width="40" height="40"/> </a>
 </p>
 
 
