@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/ahmad-almosallam-9910261a7/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://stackoverflow.com/users/12771829/ahmad-almosallam" target="blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
 <a href="https://github.com/Ahmad-Almosallam/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Almosallam&show_icons=true&theme=light&line_height=27&count_private=true" alt="Ahmad's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Almosallam&hide=prs,issues,stars&show_icons=true&theme=light&line_height=27&count_private=true" alt="Ahmad's github stats"/>
 </a>
 <a href="https://github.com/Ahmad-Almosallam/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Almosallam&layout=compact" alt="Ahmad's github stats"/>
