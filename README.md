@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **ahmad.ali.almosallam@gmail.com**
 
-- 📄 Know about my experiences [Here](https://www.linkedin.com/in/ahmad-almosallam-9910261a7/).
+- 📄 Know about my experiences [Here](https://www.linkedin.com/in/ahmad-almosallam/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmad-almosallam-9910261a7/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/ahmad-almosallam/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://stackoverflow.com/users/12771829/ahmad-almosallam" target="blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
 </p>
 
