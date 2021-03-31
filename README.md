@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [Here](https://www.linkedin.com/in/ahmad-almosallam/).
 
+- 💻 Try out my Machine Learning projects [Here](https://ahmad-almosallam.github.io/Machine-Learning-projects/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmad-almosallam/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
