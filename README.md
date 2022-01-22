@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Ahmad-Almosallam?tab=repositories).
 
-- 💬 Ask me about **Java, SQL, PHP, Codeigniter, C, Android, Python, Machine Learning.**
+- 💬 Ask me about ** C#, ASP.NET, Flutter, Java, SQL, PHP, Codeigniter, Python, Machine Learning.**
 
 - 📫 How to reach me **ahmad.ali.almosallam@gmail.com**
 
